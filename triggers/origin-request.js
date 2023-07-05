@@ -3,7 +3,7 @@
 const sourceCookie = 'X-Source';
 const sourceMain = 'main';
 const sourceExperiment = 'experiment';
-const experimentBucketName = 'rapidai.click.experiment.s3-website.eu-central-1.amazonaws.com';
+const experimentBucketName = '[your s3 bucket name].s3-website.eu-central-1.amazonaws.com';
 const experimentBucketRegion = 'eu-central-1';
 
 // Origin Request handler
